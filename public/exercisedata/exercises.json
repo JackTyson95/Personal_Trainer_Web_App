@@ -1,0 +1,3186 @@
+[
+  {
+    "name": "3/4 Sit-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "90/90 Hamstring",
+    "equipment": "body only"
+  },
+  {
+    "name": "Ab Crunch Machine",
+    "equipment": "machine"
+  },
+  {
+    "name": "Ab Roller",
+    "equipment": "other"
+  },
+  {
+    "name": "Adductor",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Advanced Kettlebell Windmill",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Air Bike",
+    "equipment": "body only"
+  },
+  {
+    "name": "All Fours Quad Stretch",
+    "equipment": "body only"
+  },
+  {
+    "name": "Alternate Hammer Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Alternate Heel Touchers",
+    "equipment": "body only"
+  },
+  {
+    "name": "Alternate Incline Dumbbell Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Alternating Cable Shoulder Press",
+    "equipment": "cable"
+  },
+  {
+    "name": "Alternating Deltoid Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Alternating Floor Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Alternating Hang Clean",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Alternating Kettlebell Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Alternating Kettlebell Row",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Alternating Renegade Row",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Anterior Tibialis-SMR",
+    "equipment": "other"
+  },
+  {
+    "name": "Anti-Gravity Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Arnold Dumbbell Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Around The Worlds",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Atlas Stones",
+    "equipment": "other"
+  },
+  {
+    "name": "Atlas Stone Trainer",
+    "equipment": "other"
+  },
+  {
+    "name": "Axle Deadlift",
+    "equipment": "other"
+  },
+  {
+    "name": "Backward Drag",
+    "equipment": "other"
+  },
+  {
+    "name": "Backward Medicine Ball Throw",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Back Flyes - With Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "Balance Board",
+    "equipment": "other"
+  },
+  {
+    "name": "Ball Leg Curl",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Band Assisted Pull-Up",
+    "equipment": "other"
+  },
+  {
+    "name": "Band Good Morning",
+    "equipment": "bands"
+  },
+  {
+    "name": "Band Good Morning (Pull Through)",
+    "equipment": "bands"
+  },
+  {
+    "name": "Band Hip Adductions",
+    "equipment": "bands"
+  },
+  {
+    "name": "Band Pull Apart",
+    "equipment": "bands"
+  },
+  {
+    "name": "Band Skull Crusher",
+    "equipment": "bands"
+  },
+  {
+    "name": "Barbell Ab Rollout",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Ab Rollout - On Knees",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Bench Press - Medium Grip",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Curls Lying Against An Incline",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Full Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Glute Bridge",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Guillotine Bench Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Hack Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Hip Thrust",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Incline Bench Press - Medium Grip",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Incline Shoulder Raise",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Lunge",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Rear Delt Row",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Rollout from Bench",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Seated Calf Raise",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Shoulder Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Shrug",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Shrug Behind The Back",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Side Bend",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Side Split Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Squat To A Bench",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Step Ups",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Barbell Walking Lunge",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Battling Ropes",
+    "equipment": "other"
+  },
+  {
+    "name": "Bear Crawl Sled Drags",
+    "equipment": "other"
+  },
+  {
+    "name": "Behind Head Chest Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Bench Dips",
+    "equipment": "body only"
+  },
+  {
+    "name": "Bench Jump",
+    "equipment": "body only"
+  },
+  {
+    "name": "Bench Press - Powerlifting",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Bench Press - With Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "Bench Press with Chains",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Bench Sprint",
+    "equipment": "other"
+  },
+  {
+    "name": "Bent-Arm Barbell Pullover",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Bent-Arm Dumbbell Pullover",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Bent-Knee Hip Raise",
+    "equipment": "body only"
+  },
+  {
+    "name": "Bent Over Barbell Row",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Bent Over Low-Pulley Side Lateral",
+    "equipment": "cable"
+  },
+  {
+    "name": "Bent Over One-Arm Long Bar Row",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Bent Over Two-Arm Long Bar Row",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Bent Over Two-Dumbbell Row",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Bent Over Two-Dumbbell Row With Palms In",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Bent Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Bicycling",
+    "equipment": "other"
+  },
+  {
+    "name": "Bicycling, Stationary",
+    "equipment": "machine"
+  },
+  {
+    "name": "Board Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Body-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Bodyweight Flyes",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "Bodyweight Mid Row",
+    "equipment": "other"
+  },
+  {
+    "name": "Bodyweight Squat",
+    "equipment": "body only"
+  },
+  {
+    "name": "Body Tricep Press",
+    "equipment": "body only"
+  },
+  {
+    "name": "Bosu Ball Cable Crunch With Side Bends",
+    "equipment": "cable"
+  },
+  {
+    "name": "Bottoms-Up Clean From The Hang Position",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Bottoms Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Box Jump (Multiple Response)",
+    "equipment": "other"
+  },
+  {
+    "name": "Box Skip",
+    "equipment": "other"
+  },
+  {
+    "name": "Box Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Box Squat with Bands",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Box Squat with Chains",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Brachialis-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Bradford/Rocky Presses",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Butt-Ups",
+    "equipment": "body only"
+  },
+  {
+    "name": "Butterfly",
+    "equipment": "machine"
+  },
+  {
+    "name": "Butt Lift (Bridge)",
+    "equipment": "body only"
+  },
+  {
+    "name": "Cable Chest Press",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Crossover",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Crunch",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Deadlifts",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Hammer Curls - Rope Attachment",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Hip Adduction",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Incline Pushdown",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Incline Triceps Extension",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Internal Rotation",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Iron Cross",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Judo Flip",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Lying Triceps Extension",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable One Arm Tricep Extension",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Preacher Curl",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Rear Delt Fly",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Reverse Crunch",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Rope Overhead Triceps Extension",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Rope Rear-Delt Rows",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Russian Twists",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Seated Crunch",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Seated Lateral Raise",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Shoulder Press",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Shrugs",
+    "equipment": "cable"
+  },
+  {
+    "name": "Cable Wrist Curl",
+    "equipment": "cable"
+  },
+  {
+    "name": "Calf-Machine Shoulder Shrug",
+    "equipment": "machine"
+  },
+  {
+    "name": "Calf Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Calf Press On The Leg Press Machine",
+    "equipment": "machine"
+  },
+  {
+    "name": "Calf Raises - With Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "Calf Raise On A Dumbbell",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Calves-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Car Deadlift",
+    "equipment": "other"
+  },
+  {
+    "name": "Car Drivers",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Catch and Overhead Throw",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Chain Handle Extension",
+    "equipment": "other"
+  },
+  {
+    "name": "Chain Press",
+    "equipment": "other"
+  },
+  {
+    "name": "Chair Leg Extended Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Chair Squat",
+    "equipment": "machine"
+  },
+  {
+    "name": "Chair Upper Body Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Chest And Front Of Shoulder Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Chest Push (multiple response)",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Chest Push (single response)",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Chest Push from 3 point stance",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Chest Push with Run Release",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Chest Stretch on Stability Ball",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Chin-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Circus Bell",
+    "equipment": "other"
+  },
+  {
+    "name": "Clean",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Clean and Jerk",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Clean and Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Clean Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Clean from Blocks",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Clean Pull",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Clean Shrug",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Clock Push-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Close-Grip Barbell Bench Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Close-Grip Dumbbell Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Close-Grip EZ-Bar Curl with Band",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "Close-Grip EZ-Bar Press",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "Close-Grip EZ Bar Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Close-Grip Front Lat Pulldown",
+    "equipment": "cable"
+  },
+  {
+    "name": "Close-Grip Push-Up off of a Dumbbell",
+    "equipment": "body only"
+  },
+  {
+    "name": "Close-Grip Standing Barbell Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Cocoons",
+    "equipment": "body only"
+  },
+  {
+    "name": "Conan's Wheel",
+    "equipment": "other"
+  },
+  {
+    "name": "Concentration Curls",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Cross-Body Crunch",
+    "equipment": "body only"
+  },
+  {
+    "name": "Cross Body Hammer Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Cross Over - With Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "Crucifix",
+    "equipment": "other"
+  },
+  {
+    "name": "Crunches",
+    "equipment": "body only"
+  },
+  {
+    "name": "Crunch - Hands Overhead",
+    "equipment": "body only"
+  },
+  {
+    "name": "Crunch - Legs On Exercise Ball",
+    "equipment": "body only"
+  },
+  {
+    "name": "Cuban Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Deadlift with Bands",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Deadlift with Chains",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Dead Bug",
+    "equipment": "body only"
+  },
+  {
+    "name": "Decline Barbell Bench Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Decline Close-Grip Bench To Skull Crusher",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Decline Crunch",
+    "equipment": "body only"
+  },
+  {
+    "name": "Decline Dumbbell Bench Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Decline Dumbbell Flyes",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Decline Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Decline EZ Bar Triceps Extension",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Decline Oblique Crunch",
+    "equipment": "body only"
+  },
+  {
+    "name": "Decline Reverse Crunch",
+    "equipment": "body only"
+  },
+  {
+    "name": "Decline Smith Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Deficit Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Depth Jump Leap",
+    "equipment": "other"
+  },
+  {
+    "name": "Dips - Chest Version",
+    "equipment": "other"
+  },
+  {
+    "name": "Dips - Triceps Version",
+    "equipment": "body only"
+  },
+  {
+    "name": "Dip Machine",
+    "equipment": "machine"
+  },
+  {
+    "name": "Donkey Calf Raises",
+    "equipment": "other"
+  },
+  {
+    "name": "Double Kettlebell Alternating Hang Clean",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Double Kettlebell Jerk",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Double Kettlebell Push Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Double Kettlebell Snatch",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Double Kettlebell Windmill",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Double Leg Butt Kick",
+    "equipment": "body only"
+  },
+  {
+    "name": "Downward Facing Balance",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Drag Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Drop Push",
+    "equipment": "other"
+  },
+  {
+    "name": "Dumbbell Alternate Bicep Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Bench Press with Neutral Grip",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Bicep Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Clean",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Floor Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Flyes",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Incline Row",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Incline Shoulder Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Lunges",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Lying One-Arm Rear Lateral Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Lying Pronation",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Lying Rear Lateral Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Lying Supination",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell One-Arm Shoulder Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell One-Arm Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell One-Arm Upright Row",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Prone Incline Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Rear Lunge",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Scaption",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Seated Box Jump",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Seated One-Leg Calf Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Shoulder Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Shrug",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Side Bend",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Squat",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Squat To A Bench",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Step Ups",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Dumbbell Tricep Extension -Pronated Grip",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Elbow to Knee",
+    "equipment": "body only"
+  },
+  {
+    "name": "Elevated Back Lunge",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Elevated Cable Rows",
+    "equipment": "cable"
+  },
+  {
+    "name": "Elliptical Trainer",
+    "equipment": "machine"
+  },
+  {
+    "name": "Exercise Ball Crunch",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Exercise Ball Pull-In",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Extended Range One-Arm Kettlebell Floor Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "External Rotation",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "External Rotation with Band",
+    "equipment": "bands"
+  },
+  {
+    "name": "External Rotation with Cable",
+    "equipment": "cable"
+  },
+  {
+    "name": "EZ-Bar Curl",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "EZ-Bar Skullcrusher",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "Face Pull",
+    "equipment": "cable"
+  },
+  {
+    "name": "Farmer's Walk",
+    "equipment": "other"
+  },
+  {
+    "name": "Fast Skipping",
+    "equipment": "body only"
+  },
+  {
+    "name": "Finger Curls",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Flat Bench Cable Flyes",
+    "equipment": "cable"
+  },
+  {
+    "name": "Flat Bench Leg Pull-In",
+    "equipment": "body only"
+  },
+  {
+    "name": "Flat Bench Lying Leg Raise",
+    "equipment": "body only"
+  },
+  {
+    "name": "Flexor Incline Dumbbell Curls",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Floor Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Floor Press with Chains",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Flutter Kicks",
+    "equipment": "body only"
+  },
+  {
+    "name": "Foot-SMR",
+    "equipment": "other"
+  },
+  {
+    "name": "Forward Drag with Press",
+    "equipment": "other"
+  },
+  {
+    "name": "Frankenstein Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Freehand Jump Squat",
+    "equipment": "body only"
+  },
+  {
+    "name": "Frog Sit-Ups",
+    "equipment": "body only"
+  },
+  {
+    "name": "Front Barbell Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Front Barbell Squat To A Bench",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Front Box Jump",
+    "equipment": "other"
+  },
+  {
+    "name": "Front Cable Raise",
+    "equipment": "cable"
+  },
+  {
+    "name": "Front Cone Hops (or hurdle hops)",
+    "equipment": "other"
+  },
+  {
+    "name": "Front Dumbbell Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Front Incline Dumbbell Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Front Leg Raises",
+    "equipment": "body only"
+  },
+  {
+    "name": "Front Plate Raise",
+    "equipment": "other"
+  },
+  {
+    "name": "Front Raise And Pullover",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Front Squats With Two Kettlebells",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Front Squat (Clean Grip)",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Front Two-Dumbbell Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Full Range-Of-Motion Lat Pulldown",
+    "equipment": "cable"
+  },
+  {
+    "name": "Gironda Sternum Chins",
+    "equipment": "other"
+  },
+  {
+    "name": "Glute Ham Raise",
+    "equipment": "machine"
+  },
+  {
+    "name": "Glute Kickback",
+    "equipment": "body only"
+  },
+  {
+    "name": "Goblet Squat",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Good Morning",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Good Morning off Pins",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Gorilla Chin/Crunch",
+    "equipment": "body only"
+  },
+  {
+    "name": "Groiners",
+    "equipment": "body only"
+  },
+  {
+    "name": "Hack Squat",
+    "equipment": "machine"
+  },
+  {
+    "name": "Hammer Curls",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Hammer Grip Incline DB Bench Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Hamstring-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Handstand Push-Ups",
+    "equipment": "body only"
+  },
+  {
+    "name": "Hanging Bar Good Morning",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "equipment": "body only"
+  },
+  {
+    "name": "Hanging Pike",
+    "equipment": "body only"
+  },
+  {
+    "name": "Hang Clean",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Hang Clean - Below the Knees",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Hang Snatch",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Hang Snatch - Below Knees",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Heaving Snatch Balance",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Heavy Bag Thrust",
+    "equipment": "other"
+  },
+  {
+    "name": "High Cable Curls",
+    "equipment": "cable"
+  },
+  {
+    "name": "Hip Circles (prone)",
+    "equipment": "body only"
+  },
+  {
+    "name": "Hip Extension with Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "Hip Flexion with Band",
+    "equipment": "bands"
+  },
+  {
+    "name": "Hip Lift with Band",
+    "equipment": "bands"
+  },
+  {
+    "name": "Hug A Ball",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Hurdle Hops",
+    "equipment": "other"
+  },
+  {
+    "name": "Hyperextensions (Back Extensions)",
+    "equipment": "other"
+  },
+  {
+    "name": "Hyperextensions With No Hyperextension Bench",
+    "equipment": "body only"
+  },
+  {
+    "name": "Iliotibial Tract-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Inchworm",
+    "equipment": "body only"
+  },
+  {
+    "name": "Incline Barbell Triceps Extension",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Incline Bench Pull",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Incline Cable Chest Press",
+    "equipment": "cable"
+  },
+  {
+    "name": "Incline Cable Flye",
+    "equipment": "cable"
+  },
+  {
+    "name": "Incline Dumbbell Bench With Palms Facing In",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Incline Dumbbell Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Incline Dumbbell Flyes",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Incline Dumbbell Flyes - With A Twist",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Incline Dumbbell Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Incline Hammer Curls",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Incline Inner Biceps Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Incline Push-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Incline Push-Up Close-Grip",
+    "equipment": "body only"
+  },
+  {
+    "name": "Incline Push-Up Depth Jump",
+    "equipment": "other"
+  },
+  {
+    "name": "Incline Push-Up Medium",
+    "equipment": "body only"
+  },
+  {
+    "name": "Incline Push-Up Reverse Grip",
+    "equipment": "body only"
+  },
+  {
+    "name": "Incline Push-Up Wide",
+    "equipment": "body only"
+  },
+  {
+    "name": "Intermediate Groin Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Intermediate Hip Flexor and Quad Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Internal Rotation with Band",
+    "equipment": "bands"
+  },
+  {
+    "name": "Inverted Row with Straps",
+    "equipment": "other"
+  },
+  {
+    "name": "Iron Cross",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Isometric Chest Squeezes",
+    "equipment": "body only"
+  },
+  {
+    "name": "Isometric Neck Exercise - Front And Back",
+    "equipment": "body only"
+  },
+  {
+    "name": "Isometric Neck Exercise - Sides",
+    "equipment": "body only"
+  },
+  {
+    "name": "Isometric Wipers",
+    "equipment": "body only"
+  },
+  {
+    "name": "IT Band and Glute Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Jackknife Sit-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Janda Sit-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Jefferson Squats",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Jerk Balance",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Jerk Dip Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "JM Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Jogging, Treadmill",
+    "equipment": "machine"
+  },
+  {
+    "name": "Keg Load",
+    "equipment": "other"
+  },
+  {
+    "name": "Kettlebell Arnold Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Dead Clean",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Figure 8",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Hang Clean",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell One-Legged Deadlift",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Pass Between The Legs",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Pirate Ships",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Pistol Squat",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Seated Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Seesaw Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Sumo High Pull",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Thruster",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Turkish Get-Up (Lunge style)",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Turkish Get-Up (Squat style)",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kettlebell Windmill",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Kipping Muscle Up",
+    "equipment": "other"
+  },
+  {
+    "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
+    "equipment": "cable"
+  },
+  {
+    "name": "Kneeling Cable Triceps Extension",
+    "equipment": "cable"
+  },
+  {
+    "name": "Kneeling High Pulley Row",
+    "equipment": "cable"
+  },
+  {
+    "name": "Kneeling Jump Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Kneeling Single-Arm High Pulley Row",
+    "equipment": "cable"
+  },
+  {
+    "name": "Kneeling Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Knee Circles",
+    "equipment": "body only"
+  },
+  {
+    "name": "Knee/Hip Raise On Parallel Bars",
+    "equipment": "other"
+  },
+  {
+    "name": "Knee Tuck Jump",
+    "equipment": "body only"
+  },
+  {
+    "name": "Landmine 180's",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Landmine Linear Jammer",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Lateral Bound",
+    "equipment": "body only"
+  },
+  {
+    "name": "Lateral Box Jump",
+    "equipment": "other"
+  },
+  {
+    "name": "Lateral Cone Hops",
+    "equipment": "other"
+  },
+  {
+    "name": "Lateral Raise - With Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "Latissimus Dorsi-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Leg-Over Floor Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Leg Extensions",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leg Lift",
+    "equipment": "body only"
+  },
+  {
+    "name": "Leg Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leg Pull-In",
+    "equipment": "body only"
+  },
+  {
+    "name": "Leverage Chest Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leverage Deadlift",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leverage Decline Chest Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leverage High Row",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leverage Incline Chest Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leverage Iso Row",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leverage Shoulder Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Leverage Shrug",
+    "equipment": "machine"
+  },
+  {
+    "name": "Linear Depth Jump",
+    "equipment": "other"
+  },
+  {
+    "name": "Log Lift",
+    "equipment": "other"
+  },
+  {
+    "name": "London Bridges",
+    "equipment": "other"
+  },
+  {
+    "name": "Lower Back-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Lower Back Curl",
+    "equipment": "body only"
+  },
+  {
+    "name": "Low Cable Crossover",
+    "equipment": "cable"
+  },
+  {
+    "name": "Low Cable Triceps Extension",
+    "equipment": "cable"
+  },
+  {
+    "name": "Low Pulley Row To Neck",
+    "equipment": "cable"
+  },
+  {
+    "name": "Lunge Pass Through",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Lunge Sprint",
+    "equipment": "machine"
+  },
+  {
+    "name": "Lying Bent Leg Groin",
+    "equipment": "other"
+  },
+  {
+    "name": "Lying Cable Curl",
+    "equipment": "cable"
+  },
+  {
+    "name": "Lying Cambered Barbell Row",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Lying Close-Grip Barbell Triceps Press To Chin",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "Lying Close-Grip Bar Curl On High Pulley",
+    "equipment": "cable"
+  },
+  {
+    "name": "Lying Crossover",
+    "equipment": "body only"
+  },
+  {
+    "name": "Lying Dumbbell Tricep Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Lying Face Down Plate Neck Resistance",
+    "equipment": "other"
+  },
+  {
+    "name": "Lying Face Up Plate Neck Resistance",
+    "equipment": "other"
+  },
+  {
+    "name": "Lying Glute",
+    "equipment": "body only"
+  },
+  {
+    "name": "Lying Hamstring",
+    "equipment": "other"
+  },
+  {
+    "name": "Lying High Bench Barbell Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Lying Leg Curls",
+    "equipment": "machine"
+  },
+  {
+    "name": "Lying Machine Squat",
+    "equipment": "machine"
+  },
+  {
+    "name": "Lying One-Arm Lateral Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Lying Prone Quadriceps",
+    "equipment": "body only"
+  },
+  {
+    "name": "Lying Rear Delt Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Lying Supine Dumbbell Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Lying T-Bar Row",
+    "equipment": "machine"
+  },
+  {
+    "name": "Lying Triceps Press",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "Machine Bench Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Machine Bicep Curl",
+    "equipment": "machine"
+  },
+  {
+    "name": "Machine Preacher Curls",
+    "equipment": "machine"
+  },
+  {
+    "name": "Machine Shoulder (Military) Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Machine Triceps Extension",
+    "equipment": "machine"
+  },
+  {
+    "name": "Medicine Ball Chest Pass",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Medicine Ball Full Twist",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Medicine Ball Scoop Throw",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Middle Back Shrug",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Mixed Grip Chin",
+    "equipment": "other"
+  },
+  {
+    "name": "Monster Walk",
+    "equipment": "bands"
+  },
+  {
+    "name": "Muscle Snatch",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Muscle Up",
+    "equipment": "other"
+  },
+  {
+    "name": "Narrow Stance Hack Squats",
+    "equipment": "machine"
+  },
+  {
+    "name": "Narrow Stance Leg Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Narrow Stance Squats",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Natural Glute Ham Raise",
+    "equipment": "body only"
+  },
+  {
+    "name": "Neck-SMR",
+    "equipment": "other"
+  },
+  {
+    "name": "Neck Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Oblique Crunches",
+    "equipment": "body only"
+  },
+  {
+    "name": "Oblique Crunches - On The Floor",
+    "equipment": "body only"
+  },
+  {
+    "name": "Olympic Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "On-Your-Back Quad Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "One-Arm Dumbbell Row",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "One-Arm Flat Bench Dumbbell Flye",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "One-Arm High-Pulley Cable Side Bends",
+    "equipment": "cable"
+  },
+  {
+    "name": "One-Arm Incline Lateral Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "One-Arm Kettlebell Clean",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Clean and Jerk",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Floor Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Jerk",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Military Press To The Side",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Para Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Push Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Row",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Snatch",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Split Jerk",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Split Snatch",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Kettlebell Swings",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Long Bar Row",
+    "equipment": "barbell"
+  },
+  {
+    "name": "One-Arm Medicine Ball Slam",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "One-Arm Open Palm Kettlebell Clean",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Overhead Kettlebell Squats",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "One-Arm Side Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "One-Arm Side Laterals",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "One-Legged Cable Kickback",
+    "equipment": "cable"
+  },
+  {
+    "name": "One Arm Chin-Up",
+    "equipment": "other"
+  },
+  {
+    "name": "One Arm Dumbbell Bench Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "One Arm Dumbbell Preacher Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "One Arm Floor Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "One Arm Lat Pulldown",
+    "equipment": "cable"
+  },
+  {
+    "name": "One Arm Pronated Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "One Arm Supinated Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "One Handed Hang",
+    "equipment": "other"
+  },
+  {
+    "name": "One Leg Barbell Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Open Palm Kettlebell Clean",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Otis-Up",
+    "equipment": "other"
+  },
+  {
+    "name": "Overhead Cable Curl",
+    "equipment": "cable"
+  },
+  {
+    "name": "Overhead Lat",
+    "equipment": "other"
+  },
+  {
+    "name": "Overhead Slam",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Overhead Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Overhead Triceps",
+    "equipment": "body only"
+  },
+  {
+    "name": "Pallof Press",
+    "equipment": "cable"
+  },
+  {
+    "name": "Pallof Press With Rotation",
+    "equipment": "cable"
+  },
+  {
+    "name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Palms-Down Wrist Curl Over A Bench",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Palms-Up Barbell Wrist Curl Over A Bench",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Parallel Bar Dip",
+    "equipment": "other"
+  },
+  {
+    "name": "Peroneals-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Peroneals Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Physioball Hip Bridge",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Pin Presses",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Piriformis-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Plank",
+    "equipment": "body only"
+  },
+  {
+    "name": "Plate Pinch",
+    "equipment": "other"
+  },
+  {
+    "name": "Plate Twist",
+    "equipment": "other"
+  },
+  {
+    "name": "Platform Hamstring Slides",
+    "equipment": "other"
+  },
+  {
+    "name": "Plie Dumbbell Squat",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Plyo Kettlebell Pushups",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Plyo Push-up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Posterior Tibialis Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Power Clean",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Power Clean from Blocks",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Power Jerk",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Power Partials",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Power Snatch",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Power Snatch from Blocks",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Power Stairs",
+    "equipment": "other"
+  },
+  {
+    "name": "Preacher Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Preacher Hammer Dumbbell Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Press Sit-Up",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Prowler Sprint",
+    "equipment": "other"
+  },
+  {
+    "name": "Pullups",
+    "equipment": "body only"
+  },
+  {
+    "name": "Pull Through",
+    "equipment": "cable"
+  },
+  {
+    "name": "Push-Ups - Close Triceps Position",
+    "equipment": "body only"
+  },
+  {
+    "name": "Push-Ups With Feet Elevated",
+    "equipment": "body only"
+  },
+  {
+    "name": "Push-Ups With Feet On An Exercise Ball",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Push-Up Wide",
+    "equipment": "body only"
+  },
+  {
+    "name": "Pushups",
+    "equipment": "body only"
+  },
+  {
+    "name": "Pushups (Close and Wide Hand Positions)",
+    "equipment": "body only"
+  },
+  {
+    "name": "Push Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Push Press - Behind the Neck",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Push Up to Side Plank",
+    "equipment": "body only"
+  },
+  {
+    "name": "Pyramid",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Quadriceps-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Quad Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Quick Leap",
+    "equipment": "other"
+  },
+  {
+    "name": "Rack Delivery",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Rack Pulls",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Rack Pull with Bands",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Rear Leg Raises",
+    "equipment": "body only"
+  },
+  {
+    "name": "Recumbent Bike",
+    "equipment": "machine"
+  },
+  {
+    "name": "Return Push from Stance",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Reverse Band Bench Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Reverse Band Box Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Reverse Band Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Reverse Band Power Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Reverse Band Sumo Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Reverse Barbell Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Reverse Barbell Preacher Curls",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "Reverse Cable Curl",
+    "equipment": "cable"
+  },
+  {
+    "name": "Reverse Crunch",
+    "equipment": "body only"
+  },
+  {
+    "name": "Reverse Flyes",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Reverse Flyes With External Rotation",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Reverse Grip Bent-Over Rows",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Reverse Grip Triceps Pushdown",
+    "equipment": "cable"
+  },
+  {
+    "name": "Reverse Hyperextension",
+    "equipment": "machine"
+  },
+  {
+    "name": "Reverse Machine Flyes",
+    "equipment": "machine"
+  },
+  {
+    "name": "Reverse Plate Curls",
+    "equipment": "other"
+  },
+  {
+    "name": "Reverse Triceps Bench Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Rhomboids-SMR",
+    "equipment": "foam roll"
+  },
+  {
+    "name": "Rickshaw Carry",
+    "equipment": "other"
+  },
+  {
+    "name": "Rickshaw Deadlift",
+    "equipment": "other"
+  },
+  {
+    "name": "Ring Dips",
+    "equipment": "other"
+  },
+  {
+    "name": "Rocket Jump",
+    "equipment": "body only"
+  },
+  {
+    "name": "Rocking Standing Calf Raise",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Rocky Pull-Ups/Pulldowns",
+    "equipment": "other"
+  },
+  {
+    "name": "Romanian Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Romanian Deadlift from Deficit",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Rope Climb",
+    "equipment": "other"
+  },
+  {
+    "name": "Rope Crunch",
+    "equipment": "cable"
+  },
+  {
+    "name": "Rope Jumping",
+    "equipment": "other"
+  },
+  {
+    "name": "Rope Straight-Arm Pulldown",
+    "equipment": "cable"
+  },
+  {
+    "name": "Round The World Shoulder Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Rowing, Stationary",
+    "equipment": "machine"
+  },
+  {
+    "name": "Running, Treadmill",
+    "equipment": "machine"
+  },
+  {
+    "name": "Russian Twist",
+    "equipment": "body only"
+  },
+  {
+    "name": "Sandbag Load",
+    "equipment": "other"
+  },
+  {
+    "name": "Scissors Jump",
+    "equipment": "body only"
+  },
+  {
+    "name": "Scissor Kick",
+    "equipment": "body only"
+  },
+  {
+    "name": "Seated Band Hamstring Curl",
+    "equipment": "other"
+  },
+  {
+    "name": "Seated Barbell Military Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Seated Barbell Twist",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Bent-Over Rear Delt Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Biceps",
+    "equipment": "body only"
+  },
+  {
+    "name": "Seated Cable Rows",
+    "equipment": "cable"
+  },
+  {
+    "name": "Seated Cable Shoulder Press",
+    "equipment": "cable"
+  },
+  {
+    "name": "Seated Calf Raise",
+    "equipment": "machine"
+  },
+  {
+    "name": "Seated Close-Grip Concentration Barbell Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Seated Dumbbell Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Dumbbell Inner Biceps Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Dumbbell Palms-Down Wrist Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Dumbbell Palms-Up Wrist Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Dumbbell Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Flat Bench Leg Pull-In",
+    "equipment": "body only"
+  },
+  {
+    "name": "Seated Front Deltoid",
+    "equipment": "body only"
+  },
+  {
+    "name": "Seated Glute",
+    "equipment": "body only"
+  },
+  {
+    "name": "Seated Good Mornings",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Seated Hamstring and Calf Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Seated Head Harness Neck Resistance",
+    "equipment": "other"
+  },
+  {
+    "name": "Seated Leg Curl",
+    "equipment": "machine"
+  },
+  {
+    "name": "Seated Leg Tucks",
+    "equipment": "body only"
+  },
+  {
+    "name": "Seated One-arm Cable Pulley Rows",
+    "equipment": "cable"
+  },
+  {
+    "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Palm-Up Barbell Wrist Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Seated Palms-Down Barbell Wrist Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Seated Side Lateral Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Triceps Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+    "equipment": "cable"
+  },
+  {
+    "name": "See-Saw Press (Alternating Side Press)",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Shotgun Row",
+    "equipment": "cable"
+  },
+  {
+    "name": "Shoulder Press - With Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "Side Bridge",
+    "equipment": "body only"
+  },
+  {
+    "name": "Side Hop-Sprint",
+    "equipment": "other"
+  },
+  {
+    "name": "Side Jackknife",
+    "equipment": "body only"
+  },
+  {
+    "name": "Side Laterals to Front Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Side Lateral Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Side Leg Raises",
+    "equipment": "body only"
+  },
+  {
+    "name": "Side to Side Box Shuffle",
+    "equipment": "other"
+  },
+  {
+    "name": "Side To Side Chins",
+    "equipment": "other"
+  },
+  {
+    "name": "Single-Arm Cable Crossover",
+    "equipment": "cable"
+  },
+  {
+    "name": "Single-Arm Linear Jammer",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Single-Arm Push-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Single-Cone Sprint Drill",
+    "equipment": "other"
+  },
+  {
+    "name": "Single-Leg High Box Squat",
+    "equipment": "other"
+  },
+  {
+    "name": "Single-Leg Hop Progression",
+    "equipment": "other"
+  },
+  {
+    "name": "Single-Leg Lateral Hop",
+    "equipment": "other"
+  },
+  {
+    "name": "Single-Leg Leg Extension",
+    "equipment": "machine"
+  },
+  {
+    "name": "Single-Leg Stride Jump",
+    "equipment": "other"
+  },
+  {
+    "name": "Single Dumbbell Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Single Leg Butt Kick",
+    "equipment": "body only"
+  },
+  {
+    "name": "Single Leg Glute Bridge",
+    "equipment": "body only"
+  },
+  {
+    "name": "Single Leg Push-off",
+    "equipment": "other"
+  },
+  {
+    "name": "Sit-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Skating",
+    "equipment": "other"
+  },
+  {
+    "name": "Sledgehammer Swings",
+    "equipment": "other"
+  },
+  {
+    "name": "Sled Drag - Harness",
+    "equipment": "other"
+  },
+  {
+    "name": "Sled Overhead Backward Walk",
+    "equipment": "other"
+  },
+  {
+    "name": "Sled Overhead Triceps Extension",
+    "equipment": "other"
+  },
+  {
+    "name": "Sled Push",
+    "equipment": "other"
+  },
+  {
+    "name": "Sled Reverse Flye",
+    "equipment": "other"
+  },
+  {
+    "name": "Sled Row",
+    "equipment": "other"
+  },
+  {
+    "name": "Smith Incline Shoulder Raise",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Smith Machine Behind the Back Shrug",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Bench Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Bent Over Row",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Calf Raise",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Close-Grip Bench Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Decline Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Hang Power Clean",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Hip Raise",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Incline Bench Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Leg Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine One-Arm Upright Row",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Overhead Shoulder Press",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Pistol Squat",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Reverse Calf Raises",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Squat",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Stiff-Legged Deadlift",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Machine Upright Row",
+    "equipment": "machine"
+  },
+  {
+    "name": "Smith Single-Leg Split Squat",
+    "equipment": "machine"
+  },
+  {
+    "name": "Snatch",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Snatch Balance",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Snatch Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Snatch from Blocks",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Snatch Pull",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Snatch Shrug",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Speed Band Overhead Triceps",
+    "equipment": "bands"
+  },
+  {
+    "name": "Speed Box Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Speed Squats",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Spell Caster",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Spider Crawl",
+    "equipment": "body only"
+  },
+  {
+    "name": "Spider Curl",
+    "equipment": "e-z curl bar"
+  },
+  {
+    "name": "Split Clean",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Split Jerk",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Split Jump",
+    "equipment": "body only"
+  },
+  {
+    "name": "Split Snatch",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Split Squat with Dumbbells",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Squats - With Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "Squat Jerk",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Squat with Bands",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Squat with Chains",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Squat with Plate Movers",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Stairmaster",
+    "equipment": "machine"
+  },
+  {
+    "name": "Standing Alternating Dumbbell Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Barbell Calf Raise",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Standing Barbell Press Behind Neck",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Biceps Cable Curl",
+    "equipment": "cable"
+  },
+  {
+    "name": "Standing Biceps Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Standing Bradford Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Standing Cable Chest Press",
+    "equipment": "cable"
+  },
+  {
+    "name": "Standing Cable Lift",
+    "equipment": "cable"
+  },
+  {
+    "name": "Standing Cable Wood Chop",
+    "equipment": "cable"
+  },
+  {
+    "name": "Standing Calf Raises",
+    "equipment": "machine"
+  },
+  {
+    "name": "Standing Concentration Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Dumbbell Calf Raise",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Dumbbell Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Dumbbell Reverse Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Dumbbell Upright Row",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Elevated Quad Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Standing Front Barbell Raise Over Head",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Standing Hamstring and Calf Stretch",
+    "equipment": "other"
+  },
+  {
+    "name": "Standing Hip Circles",
+    "equipment": "body only"
+  },
+  {
+    "name": "Standing Inner-Biceps Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Leg Curl",
+    "equipment": "machine"
+  },
+  {
+    "name": "Standing Long Jump",
+    "equipment": "body only"
+  },
+  {
+    "name": "Standing Low-Pulley Deltoid Raise",
+    "equipment": "cable"
+  },
+  {
+    "name": "Standing Low-Pulley One-Arm Triceps Extension",
+    "equipment": "cable"
+  },
+  {
+    "name": "Standing Military Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Standing Olympic Plate Hand Squeeze",
+    "equipment": "other"
+  },
+  {
+    "name": "Standing One-Arm Cable Curl",
+    "equipment": "cable"
+  },
+  {
+    "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing One-Arm Dumbbell Triceps Extension",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Overhead Barbell Triceps Extension",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Standing Palm-In One-Arm Dumbbell Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Palms-In Dumbbell Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Standing Rope Crunch",
+    "equipment": "cable"
+  },
+  {
+    "name": "Standing Towel Triceps Extension",
+    "equipment": "body only"
+  },
+  {
+    "name": "Standing Two-Arm Overhead Throw",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Star Jump",
+    "equipment": "body only"
+  },
+  {
+    "name": "Step-up with Knee Raise",
+    "equipment": "body only"
+  },
+  {
+    "name": "Step Mill",
+    "equipment": "machine"
+  },
+  {
+    "name": "Stiff-Legged Barbell Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Stiff-Legged Dumbbell Deadlift",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Stiff Leg Barbell Good Morning",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Stomach Vacuum",
+    "equipment": "body only"
+  },
+  {
+    "name": "Straight-Arm Dumbbell Pullover",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Straight-Arm Pulldown",
+    "equipment": "cable"
+  },
+  {
+    "name": "Straight Bar Bench Mid Rows",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Straight Raises on Incline Bench",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Stride Jump Crossover",
+    "equipment": "other"
+  },
+  {
+    "name": "Sumo Deadlift",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Sumo Deadlift with Bands",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Sumo Deadlift with Chains",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Superman",
+    "equipment": "body only"
+  },
+  {
+    "name": "Supine Chest Throw",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Supine One-Arm Overhead Throw",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Supine Two-Arm Overhead Throw",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Suspended Fallout",
+    "equipment": "other"
+  },
+  {
+    "name": "Suspended Push-Up",
+    "equipment": "other"
+  },
+  {
+    "name": "Suspended Reverse Crunch",
+    "equipment": "other"
+  },
+  {
+    "name": "Suspended Row",
+    "equipment": "other"
+  },
+  {
+    "name": "Suspended Split Squat",
+    "equipment": "other"
+  },
+  {
+    "name": "Svend Press",
+    "equipment": "other"
+  },
+  {
+    "name": "T-Bar Row with Handle",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Tate Press",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Thigh Abductor",
+    "equipment": "machine"
+  },
+  {
+    "name": "Thigh Adductor",
+    "equipment": "machine"
+  },
+  {
+    "name": "Tire Flip",
+    "equipment": "other"
+  },
+  {
+    "name": "Toe Touchers",
+    "equipment": "body only"
+  },
+  {
+    "name": "Torso Rotation",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Trap Bar Deadlift",
+    "equipment": "other"
+  },
+  {
+    "name": "Triceps Overhead Extension with Rope",
+    "equipment": "cable"
+  },
+  {
+    "name": "Triceps Pushdown",
+    "equipment": "cable"
+  },
+  {
+    "name": "Triceps Pushdown - Rope Attachment",
+    "equipment": "cable"
+  },
+  {
+    "name": "Triceps Pushdown - V-Bar Attachment",
+    "equipment": "cable"
+  },
+  {
+    "name": "Tricep Dumbbell Kickback",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Tuck Crunch",
+    "equipment": "body only"
+  },
+  {
+    "name": "Two-Arm Dumbbell Preacher Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Two-Arm Kettlebell Clean",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Two-Arm Kettlebell Jerk",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Two-Arm Kettlebell Military Press",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Two-Arm Kettlebell Row",
+    "equipment": "kettlebells"
+  },
+  {
+    "name": "Underhand Cable Pulldowns",
+    "equipment": "cable"
+  },
+  {
+    "name": "Upright Barbell Row",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Upright Cable Row",
+    "equipment": "cable"
+  },
+  {
+    "name": "Upright Row - With Bands",
+    "equipment": "bands"
+  },
+  {
+    "name": "V-Bar Pulldown",
+    "equipment": "cable"
+  },
+  {
+    "name": "V-Bar Pullup",
+    "equipment": "body only"
+  },
+  {
+    "name": "Vertical Swing",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Walking, Treadmill",
+    "equipment": "machine"
+  },
+  {
+    "name": "Weighted Ball Hyperextension",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Weighted Ball Side Bend",
+    "equipment": "exercise ball"
+  },
+  {
+    "name": "Weighted Bench Dip",
+    "equipment": "other"
+  },
+  {
+    "name": "Weighted Crunches",
+    "equipment": "medicine ball"
+  },
+  {
+    "name": "Weighted Jump Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Weighted Pull Ups",
+    "equipment": "other"
+  },
+  {
+    "name": "Weighted Sissy Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Weighted Sit-Ups - With Bands",
+    "equipment": "other"
+  },
+  {
+    "name": "Weighted Squat",
+    "equipment": "other"
+  },
+  {
+    "name": "Wide-Grip Barbell Bench Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Wide-Grip Decline Barbell Bench Press",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Wide-Grip Decline Barbell Pullover",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Wide-Grip Lat Pulldown",
+    "equipment": "cable"
+  },
+  {
+    "name": "Wide-Grip Pulldown Behind The Neck",
+    "equipment": "cable"
+  },
+  {
+    "name": "Wide-Grip Rear Pull-Up",
+    "equipment": "body only"
+  },
+  {
+    "name": "Wide-Grip Standing Barbell Curl",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Wide Stance Barbell Squat",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Wide Stance Stiff Legs",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Wind Sprints",
+    "equipment": "body only"
+  },
+  {
+    "name": "Wrist Circles",
+    "equipment": "body only"
+  },
+  {
+    "name": "Wrist Roller",
+    "equipment": "other"
+  },
+  {
+    "name": "Wrist Rotations with Straight Bar",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Yoke Walk",
+    "equipment": "other"
+  },
+  {
+    "name": "Zercher Squats",
+    "equipment": "barbell"
+  },
+  {
+    "name": "Zottman Curl",
+    "equipment": "dumbbell"
+  },
+  {
+    "name": "Zottman Preacher Curl",
+    "equipment": "dumbbell"
+  }
+]
